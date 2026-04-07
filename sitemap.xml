@@ -2,7 +2,27 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/ontarios-newest-computer-store/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/were-hiring/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/now-in-stock-ryzen-5900x/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/heres-our-super-secret-discount/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/happy-easter/
         </loc>
     </url>
     <url>
@@ -22,12 +42,37 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/about/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/products/8gb-ddr4-ram/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/samsung-960-evo-1tb/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/ryzen-9-5900x/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/asus-rtx-5060/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/cooler-master-masterbox-q300l/
         </loc>
     </url>
     <url>
