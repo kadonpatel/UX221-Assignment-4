@@ -1,2 +1,5 @@
 [06-Apr-2026 02:39:23 UTC] PHP Warning:  Undefined array key "host" in /workspaces/UX221-Assignment-4/.wordpress/wp-includes/pluggable.php on line 1721
 [06-Apr-2026 16:41:18 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221-Assignment-4/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[07-Apr-2026 02:17:40 UTC] PHP Fatal error:  Out of memory (allocated 37748736 bytes) (tried to allocate 155648 bytes) in /workspaces/UX221-Assignment-4/.wordpress/wp-admin/admin-ajax.php on line 39
+[07-Apr-2026 02:17:46 UTC] PHP Fatal error:  Out of memory (allocated 35651584 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment-4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/customizer.php on line 107
+[07-Apr-2026 02:17:46 UTC] PHP Fatal error:  Out of memory (allocated 35651584 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Assignment-4/.wordpress/wp-includes/sodium_compat/src/Core/Util.php on line 12
